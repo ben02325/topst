@@ -4,6 +4,34 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Welcome to TOPST Documentation
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+The TOPST Documentation is the place for tutorials and guides for supporting TOPST OSHW and accessories, maintained by the TOPST team and community.
+
+
+<br/><br/><br/>
+
+## Introduction of TOPST Product
+
+[TOPST Introduction Video](https://www.youtube.com/watch?v=H92SjCPh5eA)
+<br/><br/><br/>
+## Problems encountered
+
+If you encounter any problems while using this documentation, please submit an issue via Github and we will respond as soon as possible
+
+<br/><br/><br/>
+
+## Join the community
+
+  •	TOPST Community : https://community.topst.ai/ - Main technical support channel, both English and Korean are supported
+
+  •	TOPST official e-mail : topst@topst.ai 
+    – If interested in business partnerships or other inquiries, please email us
+
+<br/><br/><br/>
+
+## Contribute
+
+We warmly welcome everyone to give feedback on TOPST documentation, contribute patches, add content, and showcase your creations. 
+<br/>
+Just send us PR. (topst@topst.ai)
